@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">PersonalityTest</string>
+
+    <string name="question_1">১। আমি আমার বেশির ভাগ অবসর সময় বাসার বাইরে কাটাই । </string>
+    <string name="question_2">২। আমি যুক্তির মাধ্যমে সমস্যা সমাধান করি । </string>
+    <string name="question_3">৩। আমি পড়তে বেশ ভালোবাসি । </string>
+    <string name="question_4">৪। মানুষ আমাকে সৃজনশীল বলে থাকে ।  </string>
+    <string name="question_5">৫। আমি হাতে-কলমে কাজ করতে ভালোবাসি ।  </string>
+    <string name="question_6">৬। আমি ঘরের বাইরে কাজ করতে পছন্দ করি । </string>
+    <string name="question_7">৭। আমি বিশ্লেষণ ও সমস্যা সমাধান করে আনন্দ পাই ।  </string>
+    <string name="question_8">৮। আমি শব্দজট, শব্দের খেলা, ধাঁধাঁ পছন্দ করি ।  </string>
+    <string name="question_9">৯। আমার মাথায় নতুন নতুন ধারণার জন্ম হয় ।  </string>
+    <string name="question_10">১০। আমি হাতে কলমে কাজ করে আনন্দ পাই । </string>
+    <string name="question_11">১১। আমি সবসময় বিভিন্ন জিনিস সংগ্রহ করতে ভালোবাসি । </string>
+    <string name="question_12">১২। আমি মানুষের সান্নিধ্য ভালবাসি । </string>
+    <string name="question_13">১৩। আমি কোন বিষয়ে আমার নিজের অবস্থান বোঝাতে পছন্দ করি । </string>
+    <string name="question_14">১৪। তথ্য ও উপাত্তকে সাজাতে ও শ্রেণিবিন্যাস করতে ভালোবাসি । </string>
+    <string name="question_15">১৫। আমি অন্যকে পরামর্শ দিতে পছন্দ করি । </string>
+    <string name="question_16">১৬। আমি আমার চিন্তাধারা লিখে প্রকাশ করতে পছন্দ করি । </string>
+    <string name="question_17">১৭। আমি বিভিন্ন নকশা বা ডিজাইন তৈরি করতে পছন্দ করি । </string>
+    <string name="question_18">১৮। অন্যের সমস্যা সমাধান করতে আমার ভালো লাগে । </string>
+    <string name="question_19">১৯। আমি উদ্যোগ নিতে পছন্দ করি । </string>
+    <string name="question_20">২০। আবহাওয়া যেমনই হোক না কেন আমি ঘরের বাইরে থাকতে পছন্দ করি । </string>
+    <string name="question_21">২১। বিভিন্ন জিনিস তৈরি ও মেরামত করতে আমার ভালো লাগে । </string>
+    <string name="question_22">২২। আমি তথ্য ব্যবহার করতে ও সাজাতে পছন্দ করি । </string>
+    <string name="question_23">২৩। যন্ত্রপাতি ব্যবহার করতে আমার ভালো লাগে । </string>
+    <string name="question_24">২৪। কোনো ঘটনা ঘটার পেছনের কারণ জানতে আমার ভালো লাগে । </string>
+    <string name="question_25">২৫। আমি প্রতিযোগিতার চেয়ে জিততে পছন্দ করি । </string>
+    <string name="question_26">২৬। আমি সঙ্গীত, কলা বা নাটক বেশ ভালবাসি । </string>
+    <string name="question_27">২৭। আমি অন্যদের সাথে আমার ধারণা নিয়ে আলোচনা ও বিতর্ক করতে ভালবাসি । </string>
+    <string name="question_28">২৮। আমি বিভিন্ন তথ্য ও উপাত্তের মধ্য থেকে ধারা বা প্যাটার্ন বা সম্পর্ক খুঁজে বের করতে ভালোবাসি । </string>
+    <string name="question_29">২৯। আমি অনেক সময় খেলাধুলায় ব্যয় করি । </string>
+    <string name="question_30">৩০। আমি সিদ্ধান্ত গ্রহণ ও দায়িত্ব নিতে পছন্দ করি । </string>
+    <string name="question_31">৩১। আমি অন্যদের সাহায্য করে আনন্দ পাই । </string>
+    <string name="question_32">৩২। আমি তথ্য উপস্থাপনের জন্যে সারণি ও লেখচিত্র ব্যবহার করতে পছন্দ করি । </string>
+
+    <string name="sompurno_vinnomot">সম্পূর্ণ ভিন্নমত</string>
+    <string name="vinnomot">ভিন্নমত</string>
+    <string name="niropekkho"> নিরপেক্ষ </string>
+    <string name="akmot">একমত</string>
+    <string name="sompurno_akmot">সম্পূর্ণ একমত</string>
+
+
+
+</resources>

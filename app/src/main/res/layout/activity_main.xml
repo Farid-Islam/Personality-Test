@@ -1,0 +1,1105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#06082d"
+    android:orientation="vertical"
+    android:padding="5dp"
+    android:weightSum="10">
+
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="10">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <RadioGroup
+                android:id="@+id/radioGroupId_1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+
+                <TextView
+                    style="@style/questionStyle"
+                    android:text="@string/question_1"
+                    />
+
+                <RadioButton
+                    style="@style/radioButtonStyle"
+                    android:text="@string/sompurno_vinnomot" />
+
+                <RadioButton
+                    style="@style/radioButtonStyle"
+                    android:text="@string/vinnomot"
+                    />
+                <RadioButton
+                    style="@style/radioButtonStyle"
+                    android:text="@string/niropekkho"
+                    />
+                <RadioButton
+                    style="@style/radioButtonStyle"
+                    android:text="@string/akmot"
+                    />
+                <RadioButton
+                    style="@style/radioButtonStyle"
+                    android:text="@string/sompurno_akmot"
+                    />
+
+
+            </RadioGroup>
+
+            <RadioGroup
+                android:id="@+id/radioGroupId_2"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+
+                <TextView
+                    style="@style/questionStyle"
+                    android:text="@string/question_2"
+                    />
+
+                <RadioButton
+                    style="@style/radioButtonStyle"
+                    android:text="@string/sompurno_vinnomot" />
+                <RadioButton
+                    style="@style/radioButtonStyle"
+                    android:text="@string/vinnomot"
+                    />
+                <RadioButton
+                    style="@style/radioButtonStyle"
+                    android:text="@string/niropekkho"
+                    />
+                <RadioButton
+                    style="@style/radioButtonStyle"
+                    android:text="@string/akmot"
+                    />
+                <RadioButton
+                    style="@style/radioButtonStyle"
+                    android:text="@string/sompurno_akmot"
+                    />
+
+
+            </RadioGroup>
+
+            <RadioGroup
+                android:id="@+id/radioGroupId_3"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+
+                <TextView
+                    style="@style/questionStyle"
+                    android:text="@string/question_3"
+                    />
+
+                <RadioButton
+                    style="@style/radioButtonStyle"
+                    android:text="@string/sompurno_vinnomot" />
+                <RadioButton
+                    style="@style/radioButtonStyle"
+                    android:text="@string/vinnomot"
+                    />
+                <RadioButton
+                    style="@style/radioButtonStyle"
+                    android:text="@string/niropekkho"
+                    />
+                <RadioButton
+                    style="@style/radioButtonStyle"
+                    android:text="@string/akmot"
+                    />
+                <RadioButton
+                    style="@style/radioButtonStyle"
+                    android:text="@string/sompurno_akmot"
+                    />
+
+
+            </RadioGroup>
+
+            <RadioGroup
+                android:id="@+id/radioGroupId_4"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+
+                <TextView
+                    style="@style/questionStyle"
+                    android:text="@string/question_4"
+                    />
+
+                <RadioButton
+                    style="@style/radioButtonStyle"
+                    android:text="@string/sompurno_vinnomot" />
+                <RadioButton
+                    style="@style/radioButtonStyle"
+                    android:text="@string/vinnomot"
+                    />
+                <RadioButton
+                    style="@style/radioButtonStyle"
+                    android:text="@string/niropekkho"
+                    />
+                <RadioButton
+                    style="@style/radioButtonStyle"
+                    android:text="@string/akmot"
+                    />
+                <RadioButton
+                    style="@style/radioButtonStyle"
+                    android:text="@string/sompurno_akmot"
+                    />
+
+            </RadioGroup>
+
+             <RadioGroup
+                android:id="@+id/radioGroupId_5"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+
+                <TextView
+                    style="@style/questionStyle"
+                    android:text="@string/question_5"
+                    />
+
+                 <RadioButton
+                     style="@style/radioButtonStyle"
+                     android:text="@string/sompurno_vinnomot" />
+                 <RadioButton
+                     style="@style/radioButtonStyle"
+                     android:text="@string/vinnomot"
+                     />
+                 <RadioButton
+                     style="@style/radioButtonStyle"
+                     android:text="@string/niropekkho"
+                     />
+                 <RadioButton
+                     style="@style/radioButtonStyle"
+                     android:text="@string/akmot"
+                     />
+                 <RadioButton
+                     style="@style/radioButtonStyle"
+                     android:text="@string/sompurno_akmot"
+                     />
+
+            </RadioGroup>
+
+             <RadioGroup
+                android:id="@+id/radioGroupId_6"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+
+                <TextView
+                    style="@style/questionStyle"
+                    android:text="@string/question_6"
+                    />
+
+                 <RadioButton
+                     style="@style/radioButtonStyle"
+                     android:text="@string/sompurno_vinnomot" />
+                 <RadioButton
+                     style="@style/radioButtonStyle"
+                     android:text="@string/vinnomot"
+                     />
+                 <RadioButton
+                     style="@style/radioButtonStyle"
+                     android:text="@string/niropekkho"
+                     />
+                 <RadioButton
+                     style="@style/radioButtonStyle"
+                     android:text="@string/akmot"
+                     />
+                 <RadioButton
+                     style="@style/radioButtonStyle"
+                     android:text="@string/sompurno_akmot"
+                     />
+
+            </RadioGroup>
+
+             <RadioGroup
+                android:id="@+id/radioGroupId_7"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+
+                <TextView
+                    style="@style/questionStyle"
+                    android:text="@string/question_7"
+                    />
+
+                 <RadioButton
+                     style="@style/radioButtonStyle"
+                     android:text="@string/sompurno_vinnomot" />
+                 <RadioButton
+                     style="@style/radioButtonStyle"
+                     android:text="@string/vinnomot"
+                     />
+                 <RadioButton
+                     style="@style/radioButtonStyle"
+                     android:text="@string/niropekkho"
+                     />
+                 <RadioButton
+                     style="@style/radioButtonStyle"
+                     android:text="@string/akmot"
+                     />
+                 <RadioButton
+                     style="@style/radioButtonStyle"
+                     android:text="@string/sompurno_akmot"
+                     />
+
+            </RadioGroup>
+
+             <RadioGroup
+                android:id="@+id/radioGroupId_8"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+
+                <TextView
+                    style="@style/questionStyle"
+                    android:text="@string/question_8"
+                    />
+
+                 <RadioButton
+                     style="@style/radioButtonStyle"
+                     android:text="@string/sompurno_vinnomot" />
+                 <RadioButton
+                     style="@style/radioButtonStyle"
+                     android:text="@string/vinnomot"
+                     />
+                 <RadioButton
+                     style="@style/radioButtonStyle"
+                     android:text="@string/niropekkho"
+                     />
+                 <RadioButton
+                     style="@style/radioButtonStyle"
+                     android:text="@string/akmot"
+                     />
+                 <RadioButton
+                     style="@style/radioButtonStyle"
+                     android:text="@string/sompurno_akmot"
+                     />
+
+            </RadioGroup>
+
+             <RadioGroup
+                android:id="@+id/radioGroupId_9"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+
+                <TextView
+                    style="@style/questionStyle"
+                    android:text="@string/question_9"
+                    />
+
+                 <RadioButton
+                     style="@style/radioButtonStyle"
+                     android:text="@string/sompurno_vinnomot" />
+                 <RadioButton
+                     style="@style/radioButtonStyle"
+                     android:text="@string/vinnomot"
+                     />
+                 <RadioButton
+                     style="@style/radioButtonStyle"
+                     android:text="@string/niropekkho"
+                     />
+                 <RadioButton
+                     style="@style/radioButtonStyle"
+                     android:text="@string/akmot"
+                     />
+                 <RadioButton
+                     style="@style/radioButtonStyle"
+                     android:text="@string/sompurno_akmot"
+                     />
+
+            </RadioGroup>
+
+            <RadioGroup
+                android:id="@+id/radioGroupId_10"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+
+                <TextView
+                    style="@style/questionStyle"
+                    android:text="@string/question_10"
+                    />
+
+                <RadioButton
+                    style="@style/radioButtonStyle"
+                    android:text="@string/sompurno_vinnomot" />
+                <RadioButton
+                    style="@style/radioButtonStyle"
+                    android:text="@string/vinnomot"
+                    />
+                <RadioButton
+                    style="@style/radioButtonStyle"
+                    android:text="@string/niropekkho"
+                    />
+                <RadioButton
+                    style="@style/radioButtonStyle"
+                    android:text="@string/akmot"
+                    />
+                <RadioButton
+                    style="@style/radioButtonStyle"
+                    android:text="@string/sompurno_akmot"
+                    />
+
+            </RadioGroup>
+
+            <RadioGroup
+                android:id="@+id/radioGroupId_11"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+
+                <TextView
+                    style="@style/questionStyle"
+                    android:text="@string/question_11"
+                    />
+
+                <RadioButton
+                    style="@style/radioButtonStyle"
+                    android:text="@string/sompurno_vinnomot" />
+                <RadioButton
+                    style="@style/radioButtonStyle"
+                    android:text="@string/vinnomot"
+                    />
+                <RadioButton
+                    style="@style/radioButtonStyle"
+                    android:text="@string/niropekkho"
+                    />
+                <RadioButton
+                    style="@style/radioButtonStyle"
+                    android:text="@string/akmot"
+                    />
+                <RadioButton
+                    style="@style/radioButtonStyle"
+                    android:text="@string/sompurno_akmot"
+                    />
+
+            </RadioGroup>
+
+            <RadioGroup
+                android:id="@+id/radioGroupId_12"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+
+                <TextView
+                    style="@style/questionStyle"
+                    android:text="@string/question_12"
+                    />
+
+                <RadioButton
+                    style="@style/radioButtonStyle"
+                    android:text="@string/sompurno_vinnomot" />
+                <RadioButton
+                    style="@style/radioButtonStyle"
+                    android:text="@string/vinnomot"
+                    />
+                <RadioButton
+                    style="@style/radioButtonStyle"
+                    android:text="@string/niropekkho"
+                    />
+                <RadioButton
+                    style="@style/radioButtonStyle"
+                    android:text="@string/akmot"
+                    />
+                <RadioButton
+                    style="@style/radioButtonStyle"
+                    android:text="@string/sompurno_akmot"
+                    />
+
+            </RadioGroup>
+
+            <RadioGroup
+                android:id="@+id/radioGroupId_13"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+
+                <TextView
+                    style="@style/questionStyle"
+                    android:text="@string/question_13"
+                    />
+
+                <RadioButton
+                    style="@style/radioButtonStyle"
+                    android:text="@string/sompurno_vinnomot" />
+                <RadioButton
+                    style="@style/radioButtonStyle"
+                    android:text="@string/vinnomot"
+                    />
+                <RadioButton
+                    style="@style/radioButtonStyle"
+                    android:text="@string/niropekkho"
+                    />
+                <RadioButton
+                    style="@style/radioButtonStyle"
+                    android:text="@string/akmot"
+                    />
+                <RadioButton
+                    style="@style/radioButtonStyle"
+                    android:text="@string/sompurno_akmot"
+                    />
+
+            </RadioGroup>
+
+            <RadioGroup
+                android:id="@+id/radioGroupId_14"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+
+                <TextView
+                    style="@style/questionStyle"
+                    android:text="@string/question_14"
+                    />
+
+                <RadioButton
+                    style="@style/radioButtonStyle"
+                    android:text="@string/sompurno_vinnomot" />
+                <RadioButton
+                    style="@style/radioButtonStyle"
+                    android:text="@string/vinnomot"
+                    />
+                <RadioButton
+                    style="@style/radioButtonStyle"
+                    android:text="@string/niropekkho"
+                    />
+                <RadioButton
+                    style="@style/radioButtonStyle"
+                    android:text="@string/akmot"
+                    />
+                <RadioButton
+                    style="@style/radioButtonStyle"
+                    android:text="@string/sompurno_akmot"
+                    />
+
+            </RadioGroup>
+
+            <RadioGroup
+                android:id="@+id/radioGroupId_15"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+
+                <TextView
+                    style="@style/questionStyle"
+                    android:text="@string/question_15"
+                    />
+
+                <RadioButton
+                    style="@style/radioButtonStyle"
+                    android:text="@string/sompurno_vinnomot" />
+                <RadioButton
+                    style="@style/radioButtonStyle"
+                    android:text="@string/vinnomot"
+                    />
+                <RadioButton
+                    style="@style/radioButtonStyle"
+                    android:text="@string/niropekkho"
+                    />
+                <RadioButton
+                    style="@style/radioButtonStyle"
+                    android:text="@string/akmot"
+                    />
+                <RadioButton
+                    style="@style/radioButtonStyle"
+                    android:text="@string/sompurno_akmot"
+                    />
+
+            </RadioGroup>
+
+            <RadioGroup
+                android:id="@+id/radioGroupId_16"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+
+                <TextView
+                    style="@style/questionStyle"
+                    android:text="@string/question_16"
+                    />
+
+                <RadioButton
+                    style="@style/radioButtonStyle"
+                    android:text="@string/sompurno_vinnomot" />
+                <RadioButton
+                    style="@style/radioButtonStyle"
+                    android:text="@string/vinnomot"
+                    />
+                <RadioButton
+                    style="@style/radioButtonStyle"
+                    android:text="@string/niropekkho"
+                    />
+                <RadioButton
+                    style="@style/radioButtonStyle"
+                    android:text="@string/akmot"
+                    />
+                <RadioButton
+                    style="@style/radioButtonStyle"
+                    android:text="@string/sompurno_akmot"
+                    />
+
+            </RadioGroup>
+
+            <RadioGroup
+                android:id="@+id/radioGroupId_17"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+
+                <TextView
+                    style="@style/questionStyle"
+                    android:text="@string/question_17"
+                    />
+
+                <RadioButton
+                    style="@style/radioButtonStyle"
+                    android:text="@string/sompurno_vinnomot" />
+                <RadioButton
+                    style="@style/radioButtonStyle"
+                    android:text="@string/vinnomot"
+                    />
+                <RadioButton
+                    style="@style/radioButtonStyle"
+                    android:text="@string/niropekkho"
+                    />
+                <RadioButton
+                    style="@style/radioButtonStyle"
+                    android:text="@string/akmot"
+                    />
+                <RadioButton
+                    style="@style/radioButtonStyle"
+                    android:text="@string/sompurno_akmot"
+                    />
+
+            </RadioGroup>
+
+            <RadioGroup
+                android:id="@+id/radioGroupId_18"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+
+                <TextView
+                    style="@style/questionStyle"
+                    android:text="@string/question_18"
+                    />
+
+                <RadioButton
+                    style="@style/radioButtonStyle"
+                    android:text="@string/sompurno_vinnomot" />
+                <RadioButton
+                    style="@style/radioButtonStyle"
+                    android:text="@string/vinnomot"
+                    />
+                <RadioButton
+                    style="@style/radioButtonStyle"
+                    android:text="@string/niropekkho"
+                    />
+                <RadioButton
+                    style="@style/radioButtonStyle"
+                    android:text="@string/akmot"
+                    />
+                <RadioButton
+                    style="@style/radioButtonStyle"
+                    android:text="@string/sompurno_akmot"
+                    />
+
+            </RadioGroup>
+
+            <RadioGroup
+                android:id="@+id/radioGroupId_19"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+
+                <TextView
+                    style="@style/questionStyle"
+                    android:text="@string/question_19"
+                    />
+
+                <RadioButton
+                    style="@style/radioButtonStyle"
+                    android:text="@string/sompurno_vinnomot" />
+                <RadioButton
+                    style="@style/radioButtonStyle"
+                    android:text="@string/vinnomot"
+                    />
+                <RadioButton
+                    style="@style/radioButtonStyle"
+                    android:text="@string/niropekkho"
+                    />
+                <RadioButton
+                    style="@style/radioButtonStyle"
+                    android:text="@string/akmot"
+                    />
+                <RadioButton
+                    style="@style/radioButtonStyle"
+                    android:text="@string/sompurno_akmot"
+                    />
+
+            </RadioGroup>
+
+            <RadioGroup
+                android:id="@+id/radioGroupId_20"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+
+                <TextView
+                    style="@style/questionStyle"
+                    android:text="@string/question_20"
+                    />
+
+                <RadioButton
+                    style="@style/radioButtonStyle"
+                    android:text="@string/sompurno_vinnomot" />
+                <RadioButton
+                    style="@style/radioButtonStyle"
+                    android:text="@string/vinnomot"
+                    />
+                <RadioButton
+                    style="@style/radioButtonStyle"
+                    android:text="@string/niropekkho"
+                    />
+                <RadioButton
+                    style="@style/radioButtonStyle"
+                    android:text="@string/akmot"
+                    />
+                <RadioButton
+                    style="@style/radioButtonStyle"
+                    android:text="@string/sompurno_akmot"
+                    />
+
+            </RadioGroup>
+
+            <RadioGroup
+                android:id="@+id/radioGroupId_21"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+
+                <TextView
+                    style="@style/questionStyle"
+                    android:text="@string/question_21"
+                    />
+
+                <RadioButton
+                    style="@style/radioButtonStyle"
+                    android:text="@string/sompurno_vinnomot" />
+                <RadioButton
+                    style="@style/radioButtonStyle"
+                    android:text="@string/vinnomot"
+                    />
+                <RadioButton
+                    style="@style/radioButtonStyle"
+                    android:text="@string/niropekkho"
+                    />
+                <RadioButton
+                    style="@style/radioButtonStyle"
+                    android:text="@string/akmot"
+                    />
+                <RadioButton
+                    style="@style/radioButtonStyle"
+                    android:text="@string/sompurno_akmot"
+                    />
+
+            </RadioGroup>
+
+            <RadioGroup
+                android:id="@+id/radioGroupId_22"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+
+                <TextView
+                    style="@style/questionStyle"
+                    android:text="@string/question_22"
+                    />
+
+                <RadioButton
+                    style="@style/radioButtonStyle"
+                    android:text="@string/sompurno_vinnomot" />
+                <RadioButton
+                    style="@style/radioButtonStyle"
+                    android:text="@string/vinnomot"
+                    />
+                <RadioButton
+                    style="@style/radioButtonStyle"
+                    android:text="@string/niropekkho"
+                    />
+                <RadioButton
+                    style="@style/radioButtonStyle"
+                    android:text="@string/akmot"
+                    />
+                <RadioButton
+                    style="@style/radioButtonStyle"
+                    android:text="@string/sompurno_akmot"
+                    />
+
+            </RadioGroup>
+
+            <RadioGroup
+                android:id="@+id/radioGroupId_23"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+
+                <TextView
+                    style="@style/questionStyle"
+                    android:text="@string/question_23"
+                    />
+
+                <RadioButton
+                    style="@style/radioButtonStyle"
+                    android:text="@string/sompurno_vinnomot" />
+                <RadioButton
+                    style="@style/radioButtonStyle"
+                    android:text="@string/vinnomot"
+                    />
+                <RadioButton
+                    style="@style/radioButtonStyle"
+                    android:text="@string/niropekkho"
+                    />
+                <RadioButton
+                    style="@style/radioButtonStyle"
+                    android:text="@string/akmot"
+                    />
+                <RadioButton
+                    style="@style/radioButtonStyle"
+                    android:text="@string/sompurno_akmot"
+                    />
+
+            </RadioGroup>
+
+            <RadioGroup
+                android:id="@+id/radioGroupId_24"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+
+                <TextView
+                    style="@style/questionStyle"
+                    android:text="@string/question_24"
+                    />
+
+                <RadioButton
+                    style="@style/radioButtonStyle"
+                    android:text="@string/sompurno_vinnomot" />
+                <RadioButton
+                    style="@style/radioButtonStyle"
+                    android:text="@string/vinnomot"
+                    />
+                <RadioButton
+                    style="@style/radioButtonStyle"
+                    android:text="@string/niropekkho"
+                    />
+                <RadioButton
+                    style="@style/radioButtonStyle"
+                    android:text="@string/akmot"
+                    />
+                <RadioButton
+                    style="@style/radioButtonStyle"
+                    android:text="@string/sompurno_akmot"
+                    />
+
+            </RadioGroup>
+
+            <RadioGroup
+                android:id="@+id/radioGroupId_25"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+
+                <TextView
+                    style="@style/questionStyle"
+                    android:text="@string/question_25"
+                    />
+
+                <RadioButton
+                    style="@style/radioButtonStyle"
+                    android:text="@string/sompurno_vinnomot" />
+                <RadioButton
+                    style="@style/radioButtonStyle"
+                    android:text="@string/vinnomot"
+                    />
+                <RadioButton
+                    style="@style/radioButtonStyle"
+                    android:text="@string/niropekkho"
+                    />
+                <RadioButton
+                    style="@style/radioButtonStyle"
+                    android:text="@string/akmot"
+                    />
+                <RadioButton
+                    style="@style/radioButtonStyle"
+                    android:text="@string/sompurno_akmot"
+                    />
+
+            </RadioGroup>
+
+            <RadioGroup
+                android:id="@+id/radioGroupId_26"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+
+                <TextView
+                    style="@style/questionStyle"
+                    android:text="@string/question_26"
+                    />
+
+                <RadioButton
+                    style="@style/radioButtonStyle"
+                    android:text="@string/sompurno_vinnomot" />
+                <RadioButton
+                    style="@style/radioButtonStyle"
+                    android:text="@string/vinnomot"
+                    />
+                <RadioButton
+                    style="@style/radioButtonStyle"
+                    android:text="@string/niropekkho"
+                    />
+                <RadioButton
+                    style="@style/radioButtonStyle"
+                    android:text="@string/akmot"
+                    />
+                <RadioButton
+                    style="@style/radioButtonStyle"
+                    android:text="@string/sompurno_akmot"
+                    />
+
+            </RadioGroup>
+
+            <RadioGroup
+                android:id="@+id/radioGroupId_27"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+
+                <TextView
+                    style="@style/questionStyle"
+                    android:text="@string/question_27"
+                    />
+
+                <RadioButton
+                    style="@style/radioButtonStyle"
+                    android:text="@string/sompurno_vinnomot" />
+                <RadioButton
+                    style="@style/radioButtonStyle"
+                    android:text="@string/vinnomot"
+                    />
+                <RadioButton
+                    style="@style/radioButtonStyle"
+                    android:text="@string/niropekkho"
+                    />
+                <RadioButton
+                    style="@style/radioButtonStyle"
+                    android:text="@string/akmot"
+                    />
+                <RadioButton
+                    style="@style/radioButtonStyle"
+                    android:text="@string/sompurno_akmot"
+                    />
+
+            </RadioGroup>
+
+            <RadioGroup
+                android:id="@+id/radioGroupId_28"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+
+                <TextView
+                    style="@style/questionStyle"
+                    android:text="@string/question_28"
+                    />
+
+                <RadioButton
+                    style="@style/radioButtonStyle"
+                    android:text="@string/sompurno_vinnomot" />
+                <RadioButton
+                    style="@style/radioButtonStyle"
+                    android:text="@string/vinnomot"
+                    />
+                <RadioButton
+                    style="@style/radioButtonStyle"
+                    android:text="@string/niropekkho"
+                    />
+                <RadioButton
+                    style="@style/radioButtonStyle"
+                    android:text="@string/akmot"
+                    />
+                <RadioButton
+                    style="@style/radioButtonStyle"
+                    android:text="@string/sompurno_akmot"
+                    />
+
+            </RadioGroup>
+
+            <RadioGroup
+                android:id="@+id/radioGroupId_29"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+
+                <TextView
+                    style="@style/questionStyle"
+                    android:text="@string/question_29"
+                    />
+
+                <RadioButton
+                    style="@style/radioButtonStyle"
+                    android:text="@string/sompurno_vinnomot" />
+                <RadioButton
+                    style="@style/radioButtonStyle"
+                    android:text="@string/vinnomot"
+                    />
+                <RadioButton
+                    style="@style/radioButtonStyle"
+                    android:text="@string/niropekkho"
+                    />
+                <RadioButton
+                    style="@style/radioButtonStyle"
+                    android:text="@string/akmot"
+                    />
+                <RadioButton
+                    style="@style/radioButtonStyle"
+                    android:text="@string/sompurno_akmot"
+                    />
+
+            </RadioGroup>
+
+            <RadioGroup
+                android:id="@+id/radioGroupId_30"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+
+                <TextView
+                    style="@style/questionStyle"
+                    android:text="@string/question_30"
+                    />
+
+                <RadioButton
+                    style="@style/radioButtonStyle"
+                    android:text="@string/sompurno_vinnomot" />
+                <RadioButton
+                    style="@style/radioButtonStyle"
+                    android:text="@string/vinnomot"
+                    />
+                <RadioButton
+                    style="@style/radioButtonStyle"
+                    android:text="@string/niropekkho"
+                    />
+                <RadioButton
+                    style="@style/radioButtonStyle"
+                    android:text="@string/akmot"
+                    />
+                <RadioButton
+                    style="@style/radioButtonStyle"
+                    android:text="@string/sompurno_akmot"
+                    />
+
+            </RadioGroup>
+
+            <RadioGroup
+                android:id="@+id/radioGroupId_31"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+
+                <TextView
+                    style="@style/questionStyle"
+                    android:text="@string/question_31"
+                    />
+
+                <RadioButton
+                    style="@style/radioButtonStyle"
+                    android:text="@string/sompurno_vinnomot" />
+                <RadioButton
+                    style="@style/radioButtonStyle"
+                    android:text="@string/vinnomot"
+                    />
+                <RadioButton
+                    style="@style/radioButtonStyle"
+                    android:text="@string/niropekkho"
+                    />
+                <RadioButton
+                    style="@style/radioButtonStyle"
+                    android:text="@string/akmot"
+                    />
+                <RadioButton
+                    style="@style/radioButtonStyle"
+                    android:text="@string/sompurno_akmot"
+                    />
+
+            </RadioGroup>
+
+            <RadioGroup
+                android:id="@+id/radioGroupId_32"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+
+                <TextView
+                    style="@style/questionStyle"
+                    android:text="@string/question_32"
+                    />
+
+                <RadioButton
+                    style="@style/radioButtonStyle"
+                    android:text="@string/sompurno_vinnomot" />
+                <RadioButton
+                    style="@style/radioButtonStyle"
+                    android:text="@string/vinnomot"
+                    />
+                <RadioButton
+                    style="@style/radioButtonStyle"
+                    android:text="@string/niropekkho"
+                    />
+                <RadioButton
+                    style="@style/radioButtonStyle"
+                    android:text="@string/akmot"
+                    />
+                <RadioButton
+                    style="@style/radioButtonStyle"
+                    android:text="@string/sompurno_akmot"
+                    />
+
+
+                <Button
+                    android:id="@+id/resultButtonId"
+                    style="@style/Widget.AppCompat.Button.Colored"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_horizontal"
+                    android:layout_marginBottom="20dp"
+                    android:layout_marginTop="20dp"
+                    android:text="Result"
+                    android:textStyle="bold" />
+
+
+            </RadioGroup>
+
+
+
+        </LinearLayout>
+
+    </ScrollView>
+
+
+
+</LinearLayout>
